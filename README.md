@@ -13,9 +13,11 @@ Currently building practical skills through student projects and coursework.
 * **Languages:** JavaScript
 * **Web:** HTML, CSS
 * **Tools:** Git, GitHub, VS Code
+
+### Focus
+
 * backend / web apps / JS fundamentals
-
-
+  
 ### Selected Projects
 
 * 🔹 **Student Web Project**
@@ -26,5 +28,6 @@ Currently building practical skills through student projects and coursework.
 ### Links
 
 * 📫 Email: [tomaspolanek1@gmail.com](mailto:tomaspolanek1@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+* 💼 LinkedIn: [https://www.linkedin.com/in/tom%C3%A1%C5%A1-pol%C3%A1nek-48a587348/](https://www.linkedin.com/in/tom%C3%A1%C5%A1-pol%C3%A1nek-48a587348/)
+
 
