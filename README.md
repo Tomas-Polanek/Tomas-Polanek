@@ -1,4 +1,4 @@
-## Hi, I'm Tomáš 👋
+## Hi, I'm Tomas 👋
 
 I'm a university student focused on software development.
 Currently building practical skills through student projects and coursework.
