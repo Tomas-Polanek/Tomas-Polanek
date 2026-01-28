@@ -6,13 +6,14 @@ Currently building practical skills through student projects and coursework.
 ### Currently
 
 * 🎓 Software Development student
-* 💻 Working on JavaScript and small web projects
+
 
 ### Tech Stack
 
 * **Languages:** JavaScript
 * **Web:** HTML, CSS
 * **Tools:** Git, GitHub, VS Code
+* backend / web apps / JS fundamentals
 
 
 ### Selected Projects
