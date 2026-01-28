@@ -28,6 +28,6 @@ Currently building practical skills through student projects and coursework.
 ### Links
 
 * 📫 Email: [tomaspolanek1@gmail.com](mailto:tomaspolanek1@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/tom%C3%A1%C5%A1-pol%C3%A1nek-48a587348/](https://www.linkedin.com/in/tom%C3%A1%C5%A1-pol%C3%A1nek-48a587348/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/tom%C3%A1%C5%A1-pol%C3%A1nek-48a587348/](https://www.linkedin.com/in/tom%C3%A1%C5%A1-pol%C3%A1nek-48a587348/?locale=en_US)
 
 
