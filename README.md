@@ -1,6 +1,6 @@
 ## Hi, I'm Tomáš 👋
 
-I'm a university student focused on software development with an interest in data analysis and applied economics.
+I'm a university student focused on software development.
 Currently building practical skills through student projects and coursework.
 
 ### Currently
