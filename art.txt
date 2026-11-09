@@ -1,0 +1,22 @@
+    ,dPb.                      ,dPb.
+    8   8                      8   8
+ dPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPb
+ 8.o.:.o.:.o.:.o.:.o.:.o.:.o.:.o.:.o..8
+ 8YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY8
+ 8&|o +--------------------------+ o|&8
+ 8&|: [ SW   *   *   *   *   *   ] :|&8
+ 8&|o [     [#] [#] [#] [#] [#]  ] o|&8
+ 8&|: +------|---|---------------+ :|&8
+ 8&|o dPPPPPPPPPPPPbdPPPPPPPPPPPPb o|&8
+ 8&|: d:[#] *'.:.:'bd:'.:.:'.:.:'b :|&8
+ 8&|o d.[=] [=]:'.:bd.[=====]:'.:b o|&8
+ 8&|: d.[=] [=].:.:bd.[=====].:.:b :|&8
+ 8&|o d'.:.:'.:.:'.bd'.:.:'.:.:'.b o|&8
+ 8&|: d:pi-5:.:'.:.bd:nvme:.:'.:.b :|&8
+ 8&|o d:8GB.:'.:.:'bd:1TB  *.:.:'b o|&8
+ 8&|: YYYYYYYYYYYYYYYYYYYYYYYYYYYY :|&8
+ 8&|o +--------------------------+ o|&8
+ 8&|: [ o o o o o o o o o o o o o] :|&8
+ 8&|o [o o o o o o o o o o o o o ] o|&8
+ 8&|: +--------------------------+ :|&8
+ YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY

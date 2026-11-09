@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,ui-monospace,SFMono-Regular,Menlo,monospace" width="1034" height="480" viewBox="0 0 1034 480" font-size="16px">
+<style>
+.key{fill:#953800} .value{fill:#0a3069} .dots{fill:#c2cfde} text,tspan{white-space:pre}
+</style>
+<rect width="1034" height="480" fill="#f6f8fa" rx="15"/>
+<text x="20" y="40" fill="#24292f">
+<tspan x="20" y="40">    ,dPb.                      ,dPb.       <tspan class="value">tomas@polanek</tspan> -------------------------------------------.--</tspan>
+<tspan x="20" y="60">    8   8                      8   8       . <tspan class="key">OS</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">Windows 11, Debian 13 (homelab)</tspan></tspan>
+<tspan x="20" y="80"> dPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPb    . <tspan class="key">Host</tspan>:<tspan class="dots"> ......................................... </tspan><tspan class="value">Prague, CZ</tspan></tspan>
+<tspan x="20" y="100"> 8.o.:.o.:.o.:.o.:.o.:.o.:.o.:.o.:.o..8    . <tspan class="key">Kernel</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">Software Development student</tspan></tspan>
+<tspan x="20" y="120"> 8YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY8    . <tspan class="key">IDE</tspan>:<tspan class="dots"> ............................................. </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="20" y="140"> 8&amp;|o +--------------------------+ o|&amp;8    .</tspan>
+<tspan x="20" y="160"> 8&amp;|: [ SW   *   *   *   *   *   ] :|&amp;8    . <tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ....... </tspan><tspan class="value">TypeScript, Python, PHP, JS</tspan></tspan>
+<tspan x="20" y="180"> 8&amp;|o [     [#] [#] [#] [#] [#]  ] o|&amp;8    . <tspan class="key">Languages.Web</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">HTML, CSS, Tailwind</tspan></tspan>
+<tspan x="20" y="200"> 8&amp;|: +------|---|---------------+ :|&amp;8    . <tspan class="key">Frameworks</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">React, Next.js, Express, FastAPI</tspan></tspan>
+<tspan x="20" y="220"> 8&amp;|o dPPPPPPPPPPPPbdPPPPPPPPPPPPb o|&amp;8    .</tspan>
+<tspan x="20" y="240"> 8&amp;|: d:[#] *'.:.:'bd:'.:.:'.:.:'b :|&amp;8    . <tspan class="key">Homelab.Hardware</tspan>:<tspan class="dots"> ........ </tspan><tspan class="value">Raspberry Pi 5, 8 GB, 1 TB NVMe</tspan></tspan>
+<tspan x="20" y="260"> 8&amp;|o d.[=] [=]:'.:bd.[=====]:'.:b o|&amp;8    . <tspan class="key">Homelab.Services</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">AdGuard, Jellyfin, Tailscale</tspan></tspan>
+<tspan x="20" y="280"> 8&amp;|: d.[=] [=].:.:bd.[=====].:.:b :|&amp;8    . <tspan class="key">Homelab.Ops</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">Docker, Uptime Kuma, SSH only</tspan></tspan>
+<tspan x="20" y="300"> 8&amp;|o d'.:.:'.:.:'.bd'.:.:'.:.:'.b o|&amp;8    </tspan>
+<tspan x="20" y="320"> 8&amp;|: d:pi-5:.:'.:.bd:nvme:.:'.:.b :|&amp;8    - Contact -----------------------------------------------.--</tspan>
+<tspan x="20" y="340"> 8&amp;|o d:8GB.:'.:.:'bd:1TB  *.:.:'b o|&amp;8    . <tspan class="key">Email</tspan>:<tspan class="dots"> ........................... </tspan><tspan class="value">tomaspolanek1@gmail.com</tspan></tspan>
+<tspan x="20" y="360"> 8&amp;|: YYYYYYYYYYYYYYYYYYYYYYYYYYYY :|&amp;8    . <tspan class="key">Web</tspan>:<tspan class="dots"> .................................... </tspan><tspan class="value">tomaspolanek.dev</tspan></tspan>
+<tspan x="20" y="380"> 8&amp;|o +--------------------------+ o|&amp;8    . <tspan class="key">LinkedIn</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">tomas-polanek</tspan></tspan>
+<tspan x="20" y="400"> 8&amp;|: [ o o o o o o o o o o o o o] :|&amp;8    </tspan>
+<tspan x="20" y="420"> 8&amp;|o [o o o o o o o o o o o o o ] o|&amp;8    - GitHub Stats ------------------------------------------.--</tspan>
+<tspan x="20" y="440"> 8&amp;|: +--------------------------+ :|&amp;8    . <tspan class="key">Repos</tspan>:<tspan class="dots"> .. </tspan><tspan class="value">9 {Contributed: 1}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="20" y="460"> YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY    . <tspan class="key">Commits</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">105</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">3</tspan></tspan>
+</text>
+</svg>
