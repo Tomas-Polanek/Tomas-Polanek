@@ -29,6 +29,12 @@
 - 🖥️ Tinkering with my homelab
 - 🎮 Learning Python game dev with [pygame](https://github.com/Tomas-Polanek/Jumping-game-in-python)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomas-Polanek/Tomas-Polanek/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tomas-Polanek/Tomas-Polanek/output/github-snake.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Tomas-Polanek/Tomas-Polanek/output/github-snake.svg">
+</picture>
+
 ---
 
 <p align="center"><i>Feel free to reach out, always happy to talk about code.</i></p>
