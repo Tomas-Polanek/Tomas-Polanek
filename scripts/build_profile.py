@@ -1,6 +1,7 @@
 """Render the neofetch-style profile card (dark_mode.svg / light_mode.svg).
 
-ASCII art comes from art.txt, the info column from INFO below, and the
+ASCII art comes from art_dark.txt / art_light.txt (a photo needs inverted shading
+per theme), the info column from INFO below, and the
 GitHub stats from the GraphQL API (token in GITHUB_TOKEN or GH_TOKEN).
 """
 
@@ -175,9 +176,9 @@ def render(theme, art, lines):
 
 
 def main():
-    art = (ROOT / "art.txt").read_text(encoding="utf-8").rstrip("\n").split("\n")
     lines = info_lines(fetch_stats())
     for theme in THEMES:
+        art = (ROOT / f"art_{theme}.txt").read_text(encoding="utf-8").rstrip("\n").split("\n")
         (ROOT / f"{theme}_mode.svg").write_text(render(theme, art, lines), encoding="utf-8", newline="\n")
 
 

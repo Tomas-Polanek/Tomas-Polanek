@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - art.txt
+      - art_*.txt
       - scripts/build_profile.py
       - .github/workflows/build-profile.yml
 
