@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 725 245" width="725" height="245" role="img" aria-label="Tomáš Polánek – software development student from Prague">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="40" y1="34" x2="261" y2="190">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+    .a { fill: #2f81f7; }
+    .m { fill: #768390; }
+    .b { font-weight: 700; }
+    .sep { stroke: #768390; stroke-width: 1; }
+  </style>
+  <g fill="url(#g)">
+    <rect x="40" y="34" width="13" height="26"/>
+    <rect x="53" y="34" width="13" height="26"/>
+    <rect x="66" y="34" width="13" height="26"/>
+    <rect x="79" y="34" width="13" height="26"/>
+    <rect x="92" y="34" width="13" height="26"/>
+    <rect x="105" y="34" width="13" height="26"/>
+    <rect x="118" y="34" width="13" height="26"/>
+    <rect x="131" y="34" width="13" height="26"/>
+    <rect x="157" y="34" width="13" height="26"/>
+    <rect x="170" y="34" width="13" height="26"/>
+    <rect x="183" y="34" width="13" height="26"/>
+    <rect x="196" y="34" width="13" height="26"/>
+    <rect x="209" y="34" width="13" height="26"/>
+    <rect x="222" y="34" width="13" height="26"/>
+    <rect x="79" y="60" width="13" height="26"/>
+    <rect x="92" y="60" width="13" height="26"/>
+    <rect x="157" y="60" width="13" height="26"/>
+    <rect x="170" y="60" width="13" height="26"/>
+    <rect x="222" y="60" width="13" height="26"/>
+    <rect x="235" y="60" width="13" height="26"/>
+    <rect x="79" y="86" width="13" height="26"/>
+    <rect x="92" y="86" width="13" height="26"/>
+    <rect x="157" y="86" width="13" height="26"/>
+    <rect x="170" y="86" width="13" height="26"/>
+    <rect x="183" y="86" width="13" height="26"/>
+    <rect x="196" y="86" width="13" height="26"/>
+    <rect x="209" y="86" width="13" height="26"/>
+    <rect x="222" y="86" width="13" height="26"/>
+    <rect x="79" y="112" width="13" height="26"/>
+    <rect x="92" y="112" width="13" height="26"/>
+    <rect x="157" y="112" width="13" height="26"/>
+    <rect x="170" y="112" width="13" height="26"/>
+    <rect x="79" y="138" width="13" height="26"/>
+    <rect x="92" y="138" width="13" height="26"/>
+    <rect x="157" y="138" width="13" height="26"/>
+    <rect x="170" y="138" width="13" height="26"/>
+  </g>
+  <path d="M144 47L150.5 47 M150.5 47L150.5 60 M235 47L241.5 47 M241.5 47L241.5 60 M46.5 60L46.5 73 M46.5 73L53 73 M53 73L66 73 M66 73L79 73 M111.5 73L118 73 M111.5 73L111.5 86 M118 73L131 73 M131 73L144 73 M150.5 60L150.5 73 M144 73L150.5 73 M189.5 73L196 73 M189.5 73L189.5 86 M196 73L209 73 M209 73L222 73 M248 73L254.5 73 M254.5 73L254.5 86 M111.5 86L111.5 112 M241.5 99L248 99 M241.5 99L241.5 112 M254.5 86L254.5 99 M248 99L254.5 99 M111.5 112L111.5 138 M189.5 125L196 125 M189.5 125L189.5 138 M196 125L209 125 M209 125L222 125 M222 125L235 125 M241.5 112L241.5 125 M235 125L241.5 125 M111.5 138L111.5 164 M189.5 138L189.5 164 M85.5 164L85.5 177 M85.5 177L92 177 M92 177L105 177 M111.5 164L111.5 177 M105 177L111.5 177 M163.5 164L163.5 177 M163.5 177L170 177 M170 177L183 177 M189.5 164L189.5 177 M183 177L189.5 177" fill="none" stroke="#768390" stroke-width="2" stroke-linecap="square"/>
+  <text x="317" y="51" class="b"><tspan class="a">tomas</tspan><tspan class="m">@</tspan><tspan class="a">prague</tspan></text>
+  <line x1="317" y1="62" x2="467" y2="62" class="sep"/>
+  <text x="317" y="85" class="a b">role</text><text x="395" y="85" class="m">student · software dev</text>
+  <text x="317" y="111" class="a b">stack</text><text x="395" y="111" class="m">TypeScript · Python · PHP · React</text>
+  <text x="317" y="137" class="a b">focus</text><text x="395" y="137" class="m">AI tools · web apps · backends</text>
+  <text x="317" y="163" class="a b">lab</text><text x="395" y="163" class="m">homelab build</text>
+  <text x="317" y="189" class="a b">web</text><text x="395" y="189" class="m">tomaspolanek.dev</text>
+  <rect x="317" y="209" width="20" height="12" rx="2" fill="#f85149"/>
+  <rect x="343" y="209" width="20" height="12" rx="2" fill="#d29922"/>
+  <rect x="369" y="209" width="20" height="12" rx="2" fill="#3fb950"/>
+  <rect x="395" y="209" width="20" height="12" rx="2" fill="#2f81f7"/>
+  <rect x="421" y="209" width="20" height="12" rx="2" fill="#a371f7"/>
+  <rect x="447" y="209" width="20" height="12" rx="2" fill="#db61a2"/>
+</svg>

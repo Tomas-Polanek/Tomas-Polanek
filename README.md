@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Tomáš 👋</h1>
-
 <p align="center">
-  Software development student from Prague. I learn by building things that actually run:<br/>
-  web apps, small backends and AI tools on top of LLM APIs.
+  <img src="assets/monogram.svg" width="725" alt="Tomáš Polánek – software development student from Prague. Stack: TypeScript, Python, PHP, React. Focus: AI tools, web apps, backends."/>
 </p>
 
 <p align="center">
