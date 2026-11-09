@@ -1,6 +1,47 @@
-<p align="center">
-  <img src="assets/monogram.svg" width="725" alt="Tomáš Polánek – software development student from Prague. Stack: TypeScript, Python, PHP, React. Focus: AI tools, web apps, backends."/>
-</p>
+```text
++----------------------------------------------------------------------------+
+|Character creation / Background / Software developer                        |
++----------------------------------------------------------------------------+
+|                                                                            !
+!                 ,:8P************^^^^^^^^^^^^^^^^^^^^^^^Yb.                 |
+|                j&:8.'.:'.:'.:'.:'.:'.:'.:'.:'.:'.:'.:'.::%|i.              |
+!                ?&:8::'.:.:'.:.:'.:.:'.:.:'.:.:'.:.:'.:.::%||i              !
+|                ?&:8..:.dPPPPPPPPPPPPb.dPPPPPPPPP:'.:.:'.:%|||              |
+|                I&&&b.:d%%%%%%%%%%%%%%8%%%%%%%%%%%%%:'.:..%|!|              !
+!                E&8:J'.d%%%%??????%%%%8%?????%%%????%8.:':%|||              |
+|                l%%%P:.:'88d%????%88888%????%b8d%???%8'.:.%|!|              |
+!                :+.+.:'.:.:d%????%8.:'.%????%b8d%???%8:.::%|!|              !
+|                ?&:%:.:.:'.d%????%8'.:.%????%b8%????%8:'.:%|!!              |
+|                ?&:%..:'.:.d%????%8:.:'%?????%%????%b8.:..%|||              !
+!                ?8:%.'.:.:'d%????%8:'.:%?????%%%%%%b88.:':%|!!              |
+|                ?8:%::.:'.:d%????%8.:.:%????%b88888:.:'.:.%|!|              |
+!                ?8:%.:'.:.:d%????%8.:'.%????%b8'.:.:'.:.::%|!|              !
+|                I&&&b.:.:'.d%????%8'.:.%????%b8:.:'.:.:'..%!||              |
+|                E&8:J.:'.:.d%????%8:.:'%????%b8:'.:.:'.:..%!|!              !
+!                l%%%P'.:.:'d%%%%%%8:'.:%%%%%%b8.:.:'.:.:':%!!!              |
+|                :+.+::.:'.:.:888888.:.:'.88888:.:'.:.:'.:.%|!!              |
+!                ?%:%.:'.:.:'.:.:'.:.:'.:.:'.:.:'.:.:'.:.::%!|:              !
+|                ?+.+:dbssssssssssss++++++++++++++++++++%%:?!|!              |
+|                ?%:%.:.::.::.::.::: T. P. ::.::.::.::.::.:?!!!              !
+!                 `Y':;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:|!               |
+|                  `"*:::::::::::::::::::::::::::::::::::::'                 |
+!                                                                            !
++----------------------------------------------------------------------------+
+|Tomas Polanek, a software development student from Prague. Your curiosity   |
+|drives you to build things that actually run: web apps, small backends      !
+!and AI tools on top of LLM APIs. Between builds you tinker with a homelab.  |
+|Character stats: TYPESCRIPT / PYTHON / PHP / REACT / NODE                   |
+!Start with a homelab and a Gemini API key                                   !
++----------------------------------------------------------------------------+
+|1 - ask-your-pdfs                                                           |
+|2 - The Fridge Notebook                                                     !
+!3 - Jicin parcel map                                                        |
+|4 - SleepTrack                                                              |
+!5 - Portfolio  >  tomaspolanek.dev                                          !
+|0 - Back                                                                    |
+|Enter - Accept                                                              !
++[]--------------------------------------------------------------------------+
+```
 
 <p align="center">
   <a href="https://tomaspolanek.dev"><img src="https://img.shields.io/badge/Portfolio-tomaspolanek.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -19,16 +60,6 @@
 | 🗺️ [**Jičín parcel map**](https://github.com/Tomas-Polanek/Jicin-parcel-map) | Interactive map of 17 723 cadastral parcels around Jičín, built from ČÚZK INSPIRE open data | PHP 8, SQLite, JavaScript |
 | 😴 [**SleepTrack**](https://github.com/Tomas-Polanek/SleepTrack) | Sleep tracking app with a calendar view and statistics | React, Vite, Tailwind, Node.js, Express |
 | 🌐 [**portfolio**](https://github.com/Tomas-Polanek/portfolio) | My personal site: CZ/EN, bento layout, 3D model of my homelab build, project cards fed by the GitHub API | Next.js 16, React 19, TypeScript, Tailwind v4 |
-
-### 🛠️ Tech I use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css&theme=dark" alt="Languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,vite&theme=dark" alt="Frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=sqlite,docker,git,github,vscode&theme=dark" alt="Tools"/>
-</p>
 
 ### 🌱 Right now
 
